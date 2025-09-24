@@ -1,0 +1,36 @@
+{
+  "rules": [
+    {
+      "id": "shadow-on-invisible-object",
+      "description": "Invisible objects should not cast shadows.",
+      "ifCondition": {
+        "parameter": "isVisible",
+        "comparator": "eq",
+        "value": "false"
+      },
+      "thenRequirements": [
+        {
+          "property": "castsShadow",
+          "expectedValue": "false"
+        }
+      ],
+      "message": "Object is invisible but still casting a shadow."
+    },
+    {
+      "id": "material-check",
+      "description": "Material color should not be pure white in dark environments.",
+      "ifCondition": {
+        "parameter": "isVisible",
+        "comparator": "eq",
+        "value": "true"
+      },
+      "thenRequirements": [
+        {
+          "property": "materialColor",
+          "expectedValue": "not Color(1, 1, 1, 1)"
+        }
+      ],
+      "message": "Visible object has full white material — may be too bright."
+    }
+  ]
+}
