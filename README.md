@@ -61,6 +61,16 @@ This engine checks whether your game’s **rendered state** is visually consiste
 
 ---
 
+## 🔍 Supported Visual Properties
+
+| Property        | What It Means                               |
+|-----------------|----------------------------------------------|
+| `isVisible`     | Is the object's renderer enabled?            |
+| `castsShadow`   | Does the object cast real-time shadows?      |
+| `materialColor` | The current material color of the object     |
+
+> You can expand this by adding your own properties in `GetVisualProperty()`.
+
 📦 Features
 
 Runtime visual coherence validation
