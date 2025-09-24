@@ -59,8 +59,6 @@ This engine checks whether your game’s **rendered state** is visually consiste
 }
 
 
----
-
 ## 🔍 Supported Visual Properties
 
 | Property        | What It Means                               |
@@ -97,8 +95,6 @@ Camera effects
 
 
 
----
-
 🧠 Based on the LoC Framework
 
 This is a visual module for the broader Coherence Engine Stack, which includes:
@@ -111,7 +107,6 @@ This is a visual module for the broader Coherence Engine Stack, which includes:
 
 
 
----
 
 📬 License
 
@@ -121,8 +116,6 @@ See LICENSE-EVAL.txt and COMMERCIAL.md for terms.
 Contact: nailercole@gmail.com
 DOI for original system: https://doi.org/10.5281/zenodo.17188615
 
-
----
 
 🚀 Coming Soon
 
@@ -134,16 +127,14 @@ Unreal Engine version (mirror of this validator)
 
 
 
----
-
 Built by @NailerCole | Powered by 🧠 Logic of Coherence (LoC)
 
----
+
 
 ### 📚 Foundational Research
 
 This project builds on the Logic of Coherence (LoC) framework:
 
-- [https://doi.org/10.5281/zenodo.17193463](https://doi.org/10.5281/zenodo.17193463)
-- [https://doi.org/10.5281/zenodo.17194960](https://doi.org/10.5281/zenodo.17194960)
-- [https://doi.org/10.5281/zenodo.17194978](https://doi.org/10.5281/zenodo.17194978)
+[https://doi.org/10.5281/zenodo.17193463]
+[https://doi.org/10.5281/zenodo.17194960]
+[https://doi.org/10.5281/zenodo.17194978]
