@@ -101,7 +101,7 @@ See `LICENSE-EVAL.txt` and `COMMERCIAL.md` for terms.
 
 Built by **@NailerCole**  
 Powered by 🧠 Logic of Coherence (LoC)  
-📧 mailercole@gmail.com
+📧 nailercole@gmail.com
 
 ---
 
