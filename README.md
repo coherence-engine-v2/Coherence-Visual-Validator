@@ -39,8 +39,6 @@ This engine checks whether your game’s **rendered state** is visually consiste
 }
 
 
----
-
 🧪 Example Rule
 
 {
@@ -50,13 +48,13 @@ This engine checks whether your game’s **rendered state** is visually consiste
     "parameter": "isVisible",
     "comparator": "eq",
     "value": "false"
-  },
+  }
   "thenRequirements": [
     {
       "property": "castsShadow",
       "expectedValue": "false"
     }
-  ],
+  ]
   "message": "Object is invisible but still casting a shadow."
 }
 
