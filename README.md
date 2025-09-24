@@ -1,6 +1,6 @@
-# 🧠 LoC Visual Coherence Engine
+# 🧠 Coherence Visual Validator (LoC-V)
 
-**A visual logic validator for Unity** — part of the larger *Line of Coherence (LoC)* framework.
+*A Unity-based visual logic checker — built using the Logic of Coherence framework.*
 
 This engine checks whether your game’s **rendered state** is visually consistent with the game’s **intended logical or physical state**.
 
