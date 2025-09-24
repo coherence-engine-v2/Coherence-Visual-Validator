@@ -1,3 +1,5 @@
+👉 Related project: [Coherence Visual Validator](https://github.com/coherence-engine-v2/Coherence-Visual-Validator)
+
 # 🧠 Coherence Visual Validator (LoC-V)
 
 *A Unity-based visual logic checker — built using the Logic of Coherence framework.*
