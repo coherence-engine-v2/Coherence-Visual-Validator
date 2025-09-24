@@ -140,5 +140,10 @@ Built by @NailerCole | Powered by 🧠 Logic of Coherence (LoC)
 
 ---
 
-🧠 This project builds on the Logic of Coherence (LoC) framework.  
-📚 Foundational research: [https://doi.org/10.5281/zenodo.17193463](https://doi.org/10.5281/zenodo.17193463)
+### 📚 Foundational Research
+
+This project builds on the Logic of Coherence (LoC) framework:
+
+- [https://doi.org/10.5281/zenodo.17193463](https://doi.org/10.5281/zenodo.17193463)
+- [https://doi.org/10.5281/zenodo.17194960](https://doi.org/10.5281/zenodo.17194960)
+- [https://doi.org/10.5281/zenodo.17194978](https://doi.org/10.5281/zenodo.17194978)
