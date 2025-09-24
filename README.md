@@ -140,4 +140,7 @@ Unreal Engine version (mirror of this validator)
 
 Built by @NailerCole | Powered by 🧠 Logic of Coherence (LoC)
 
-https://doi.org/10.5281/zenodo.17194960
+---
+
+🧠 This project builds on the Logic of Coherence (LoC) framework.  
+📚 Foundational research: [https://doi.org/10.5281/zenodo.17193463](https://doi.org/10.5281/zenodo.17193463)
