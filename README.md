@@ -139,3 +139,5 @@ Unreal Engine version (mirror of this validator)
 ---
 
 Built by @NailerCole | Powered by 🧠 Logic of Coherence (LoC)
+
+https://doi.org/10.5281/zenodo.17194960
