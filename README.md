@@ -25,10 +25,11 @@ This engine checks whether your game’s **rendered state** is visually consiste
 ### 🧩 Rule Format (VisualRuleSet.json)
 ```json
 {
-  "parameter": "isVisible",
-  "comparator": "eq",
-  "value": "false"
-}→ Triggers thenRequirements like:
+“parameter”: “isVisible”,
+“comparator”: “eq”,
+“value”: “false”
+}
+→ Triggers thenRequirements like:
 
 {
   "property": "castsShadow",
