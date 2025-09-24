@@ -1,4 +1,4 @@
-👉 Related project: [Coherence Visual Validator](https://github.com/coherence-engine-v2/Coherence-Visual-Validator)
+👉 Related project: https://github.com/coherence-engine-v2/Coherence-filter-engine
 
 # 🧠 Coherence Visual Validator (LoC-V)
 
